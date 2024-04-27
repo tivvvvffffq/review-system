@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nxj</groupId>
-    <artifactId>com.nxj</artifactId>
+    <artifactId>review-system</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>review-system</name>
 
